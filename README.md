@@ -1,0 +1,1 @@
+In this library checkout system simulation Users can search, borrow, and return books from a categorized library. Books are organized by genre. The classes included demonstrates the use of collections, custom exceptions, and the Iterator Design Pattern. This project tries to emphasize clean object-oriented design, modularity, and robust error handling.
