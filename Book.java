@@ -22,9 +22,23 @@ public class Book {
         isAvailable = true;
     }
 
-     public boolean isAvailable() {
+    public boolean isAvailable() {
         return isAvailable;
     }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+    
+    public String getGenre() {
+        return genre;
+    }
+
+
 
     @Override
     public String toString() {
